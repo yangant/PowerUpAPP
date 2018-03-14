@@ -16,6 +16,7 @@
         android:layout_height="0dp"
         android:layout_gravity="bottom"
         android:layout_weight="1"
+        android:theme="@style/AppTheme"
         android:background="?android:attr/windowBackground"
         app:menu="@menu/navigation" />
 </LinearLayout>
